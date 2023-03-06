@@ -1,0 +1,32 @@
+    1  df -
+    2  df
+    3  df -h
+    4  df --help
+    5  df -B
+    6  df -BM
+    7  df -H
+    8  df -P
+    9  nproc
+   10  ulimit -n
+   11  nproc --all
+   12  nproc --ignore=4
+   13  nproc --help
+   14  nproc --version
+   15  df
+   16  df --help
+   17  free
+   18  free --help
+   19  free -b
+   20  free -k
+   21  free -m
+   22  free -g
+   23  free -h
+   24  free -l
+   25  free -t
+   26  free -s
+   27  free -s 10
+   28  free -c 5
+   29  free -c 10
+   30  free -w
+   31  free -V
+   32  history > commands1.txt
